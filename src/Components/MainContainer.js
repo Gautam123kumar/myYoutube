@@ -4,7 +4,7 @@ import VideoContainer from './VideoContainer'
 
 function MainContainer() {
   return (
-    <div className='col-span-10'>
+    <div className='w-[100%]'>
         <ButtonList/>
         <VideoContainer/>
     </div>
